@@ -1,5 +1,5 @@
 {
-  "name": "react-essentials-practice",
+  "name": "Investment Calculator",
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
@@ -15,5 +15,5 @@
     "vite": "^4.3.9"
   },
   "keywords": [],
-  "description": ""
+  "description": "Calculator for Investment."
 }
